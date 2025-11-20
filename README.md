@@ -12,28 +12,53 @@ screenshots/
 Màn hình chính
 <img width="302" height="476" alt="image" src="https://github.com/user-attachments/assets/5b549e33-3801-4cfc-85fa-bb810f39f266" />
 
+
 Ví dụ: phép cộng
 <img width="298" height="457" alt="image" src="https://github.com/user-attachments/assets/45a09f95-83b7-4060-acbd-aa63e9b1a6ae" />
+
+
 <img width="297" height="481" alt="image" src="https://github.com/user-attachments/assets/a0774d26-ebf6-4663-a136-f751e7dc8f3e" />
+
+
 Ví dụ: phép nhân số thập phân
+
+
 <img width="298" height="472" alt="image" src="https://github.com/user-attachments/assets/8aadb186-5a6f-4b26-bb44-7fd9b129096d" />
+
+
 <img width="299" height="480" alt="image" src="https://github.com/user-attachments/assets/d29a959a-088a-47d3-8c81-47afa86746eb" />
 
 Ví dụ: âm dương + nút ±
+
+
 <img width="294" height="474" alt="image" src="https://github.com/user-attachments/assets/2d6bc799-b9ff-4efb-9a01-fb7eb69d60d0" />
+
+
 <img width="295" height="479" alt="image" src="https://github.com/user-attachments/assets/475bca5f-aa58-4bb5-8392-3bc45ac39427" />
 <img width="300" height="482" alt="image" src="https://github.com/user-attachments/assets/6351b8ff-e431-4750-bfb2-d8d225027a14" />
 
 Ví dụ: phép chia
+
+
 <img width="297" height="474" alt="image" src="https://github.com/user-attachments/assets/25b614b6-8bb4-4285-944f-bc8a8a1a1c09" />
+
+
 <img width="304" height="478" alt="image" src="https://github.com/user-attachments/assets/b308dff8-44dd-4225-9cb2-f12a60d17a83" />
 
 Ví dụ: lỗi chia cho 0
+
+
 <img width="296" height="474" alt="image" src="https://github.com/user-attachments/assets/625e1bd7-f6d0-46e8-9bbc-a0950759791e" />
+
+
 <img width="296" height="476" alt="image" src="https://github.com/user-attachments/assets/ed585c76-13ac-4ceb-ac78-c7708fd42621" />
 
 ví dụ: tính theo biểu thức
+
+
 <img width="302" height="473" alt="image" src="https://github.com/user-attachments/assets/ff1c578d-3036-44ad-94ce-bd62d68cc405" />
+
+
 <img width="301" height="479" alt="image" src="https://github.com/user-attachments/assets/759007fb-1ce7-47ab-b64d-72043fb05a26" />
 
 
