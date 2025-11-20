@@ -10,11 +10,18 @@ App hỗ trợ các phép toán cơ bản, hiển thị kết quả theo thời 
 Các hình ảnh cần được đặt trong thư mục:
 screenshots/
 Màn hình chính
+
+
 <img width="302" height="476" alt="image" src="https://github.com/user-attachments/assets/5b549e33-3801-4cfc-85fa-bb810f39f266" />
 
 
+
 Ví dụ: phép cộng
+
+
+
 <img width="298" height="457" alt="image" src="https://github.com/user-attachments/assets/45a09f95-83b7-4060-acbd-aa63e9b1a6ae" />
+
 
 
 <img width="297" height="481" alt="image" src="https://github.com/user-attachments/assets/a0774d26-ebf6-4663-a136-f751e7dc8f3e" />
