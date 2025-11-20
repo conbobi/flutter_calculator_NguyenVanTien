@@ -72,7 +72,7 @@ ví dụ: tính theo biểu thức
 cách dùng github:
 🚀 Run Project
 1. Clone repo
-git clone https://github.com/username/flutter_calculator_yourname.git
+git clone https://github.com/username/flutter_calculator_NguyenVanTien.git
 
 2. Di chuyển vào thư mục project
 cd calculator_app
